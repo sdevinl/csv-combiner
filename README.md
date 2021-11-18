@@ -10,7 +10,7 @@ Use `filename` as the header for the additional column.
 ## Input & Output
 We will run your code as follows
 ```
-$ ./csv-combiner.php ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
+$ py ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
 
 However, the CSV files inside the fixtures are not the only files we will run
